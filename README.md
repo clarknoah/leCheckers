@@ -36,4 +36,16 @@ AngularJS Generator: `npm install -g generator-angular`
 whatever we need for python
 https://pypi.python.org/pypi/pip
 
+## Installing the project
+Once you make sure have have all of those dependencies, run the following commands
+`git clone git@github.com:clarknoah/leCheckers.git`
+
+`cd leCheckers`
+
+`npm install`
+
+If all is well, finally run:
+`grunt server`
+
+This should start a server for the webapp. Congrats, time to start coding!
 
